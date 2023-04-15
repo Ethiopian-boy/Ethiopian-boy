@@ -2,6 +2,7 @@
 
 <!--
 **Ethiopian-boy/Ethiopian-boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 # 💫 About Me:
 😎 I am Software  Engineer with a great passion for Science and Philosophy.<br>Shoot me an [Email 📧] (mullerfromethiopia@gmail.com) or add me on [LinkedIn](www.linkedin.com/in/<br>mulubrhan-birhanu-94a19923b) :)
